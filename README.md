@@ -1,6 +1,7 @@
 # 📊 CSV/XLSX Viewer — Парсер структурированных данных
 
-![WPF Application](https://via.placeholder.com/800x400/2c3e50/ffffff?text=CSV/XLSX+Viewer+Interface)  
+<img width="931" height="439" alt="image" src="https://github.com/user-attachments/assets/5994f98b-f257-4679-a4c4-c08c914fc7e3" />
+
 *Интерфейс приложения с поддержкой редактирования, фильтрации и визуальной индикацией изменений*
 
 ## 🎓 Учебный проект для студентов первых курсов по системному программированию
